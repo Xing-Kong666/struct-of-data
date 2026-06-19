@@ -1,0 +1,2 @@
+# struct-of-data
+To practice the struct of data
